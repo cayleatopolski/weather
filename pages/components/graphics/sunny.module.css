@@ -1,0 +1,11 @@
+.sunnyWrapper {
+  padding: 20px;
+}
+
+.sunny {
+  width: 120px;
+  height: 120px;
+  background: rgb(254, 254, 1);
+  box-shadow: 3px 5px rgba(245, 227, 129, 0.808);
+  border-radius: 100px;
+}
